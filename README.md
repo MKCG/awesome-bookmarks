@@ -50,7 +50,7 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 * Fast conjunction on sorted elements
 * Used by Lucene under the name "Leap-frog algorithm" : [Lucene FilteredQuery](https://lucene.apache.org/core/4_2_0/core/org/apache/lucene/search/FilteredQuery.html#LEAP_FROG_FILTER_FIRST_STRATEGY)
-* [bbuzz 2015 - Talk from Adrien Grand](https://youtu.be/eQ-rXP-D80U?t=356)
+* [bbuzz 2015 - Talk from Adrien Grand](https://youtu.be/eQ-rXP-D80U?t=357)
 
 ## Architecture
 
