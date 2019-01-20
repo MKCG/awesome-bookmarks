@@ -57,7 +57,7 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 #### Theory
 * [Selection sort VS Insertion sort - Computerphile ](https://www.youtube.com/watch?v=pcJHkWwjNl4)
 
-### Implementations
+#### Implementations
 * [Merge sort - PHP source code](https://github.com/php/php-src/blob/master/main/mergesort.c)
 * [Insert sort & Quick sort - PHP source code](https://github.com/php/php-src/blob/master/Zend/zend_sort.c)
 
