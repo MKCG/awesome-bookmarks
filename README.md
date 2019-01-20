@@ -110,6 +110,17 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 * Generate nginx configuration
 * Generate HTTPS certificate using Let's encrypt
 
+## Search engines
+
+### Front-end
+
+[Metis](https://github.com/MKCG/metis)
+
+* ECMAScript 6 implementation
+* Fulltext search engine
+* Facet engine
+* In-memory storage
+* Can be used by mobile apps
 
 ## Testing
 
