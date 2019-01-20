@@ -40,6 +40,33 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 [PHP - Twig](https://github.com/okeeffed/cheat-sheets/blob/master/twig-cheat-sheet.md)
 
 
+## Algorithm
+
+### Array joins
+
+(Zig-zag algorithm)[http://www.mathcs.emory.edu/~cheung/Courses/554/Syllabus/4-query-exec/index=zig-zag-join.html]
+
+* Fast conjunction on sorted elements
+* Used by Lucene under the name "Leap-frog algorithm" : (Lucene FilteredQuery)[https://lucene.apache.org/core/4_2_0/core/org/apache/lucene/search/FilteredQuery.html#LEAP_FROG_FILTER_FIRST_STRATEGY]
+* (bbuzz 2015 - Talk from Adrien Grand)[https://youtu.be/eQ-rXP-D80U?t=356]
+
+## Architecture
+
+### CAP theorem
+
+### Chaos Engineering
+
+### CQRS
+
+### CRUD
+
+### Event-loop
+
+### Event-sourcing
+
+### Optimistic models
+
+
 ## Infrastructure
 
 ### Kubernetes
