@@ -91,6 +91,14 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ---
 
+### Memcached
+
+#### Mcrouter
+
+[GitHub](https://github.com/facebook/mcrouter)
+
+[Presentation](https://code.fb.com/core-data/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/)
+
 ### Nginx
 
 #### Configuration
