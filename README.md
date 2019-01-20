@@ -61,3 +61,15 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 * Generate nginx configuration
 * Generate HTTPS certificate using Let's encrypt
+
+
+## Testing
+
+### CI Pipeline
+
+### Functional tests
+
+[PHP - Behat - BDD - Gherkin based framework](http://behat.org/en/latest/)
+
+[PHP - Codeception BDD - User centric based framework](https://codeception.com/)
+
