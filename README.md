@@ -1,6 +1,14 @@
 # awesome-bookmarks
 bookmarks about different subjects : infrastructure, machine-learning, etc.
 
+## Tools
+
+### Cheatsheets
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Kubernetes CLI - kubectl](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
+
 ## Infrastructure
 
 ### Kubernetes
