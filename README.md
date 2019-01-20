@@ -39,3 +39,12 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 * Example of an external NFS service 
 
 ---
+
+### Nginx
+
+#### Configuration
+
+[nginxconfig.io](https://nginxconfig.io/)
+
+* Generate nginx configuration
+* Generate HTTPS certificate using Let's encrypt
