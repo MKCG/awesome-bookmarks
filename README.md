@@ -42,13 +42,15 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ## Algorithm
 
-### Array joins
+### Conjunctions
 
-(Zig-zag algorithm)[http://www.mathcs.emory.edu/~cheung/Courses/554/Syllabus/4-query-exec/index=zig-zag-join.html]
+#### Zig-zag algorithm
+
+[Algorithm](http://www.mathcs.emory.edu/~cheung/Courses/554/Syllabus/4-query-exec/index=zig-zag-join.html)
 
 * Fast conjunction on sorted elements
-* Used by Lucene under the name "Leap-frog algorithm" : (Lucene FilteredQuery)[https://lucene.apache.org/core/4_2_0/core/org/apache/lucene/search/FilteredQuery.html#LEAP_FROG_FILTER_FIRST_STRATEGY]
-* (bbuzz 2015 - Talk from Adrien Grand)[https://youtu.be/eQ-rXP-D80U?t=356]
+* Used by Lucene under the name "Leap-frog algorithm" : [Lucene FilteredQuery](https://lucene.apache.org/core/4_2_0/core/org/apache/lucene/search/FilteredQuery.html#LEAP_FROG_FILTER_FIRST_STRATEGY)
+* [bbuzz 2015 - Talk from Adrien Grand](https://youtu.be/eQ-rXP-D80U?t=356)
 
 ## Architecture
 
