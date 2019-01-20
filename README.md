@@ -15,9 +15,9 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 * Compare popular templating frameworks
 
 
-## Tools
+## Cheatsheets
 
-### Cheatsheets
+[Docker](https://devhints.io/docker)
 
 [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com/)
 
@@ -25,7 +25,14 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[MongoDB](https://www.opentechguides.com/how-to/article/mongodb/118/mongodb-cheatsheat.html)
+
 [MySQL](https://devhints.io/mysql)
+
+[Neo4j - Cypher](https://neo4j.com/docs/cypher-refcard/current/)
+
+[PHP - Twig](https://github.com/okeeffed/cheat-sheets/blob/master/twig-cheat-sheet.md)
+
 
 ## Infrastructure
 
