@@ -67,6 +67,8 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ### Chaos Engineering
 
+* [Netflix architecture resiliency - Experimentations on production environment clusters - Medium](https://medium.com/netflix-techblog/chaos-engineering-upgraded-878d341f15fa) 
+
 ### CQRS
 
 ### CRUD
