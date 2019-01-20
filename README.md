@@ -82,6 +82,10 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ## Infrastructure
 
+### Deployment process
+
+[Presentation of different deployment : Blue-green, A/B testing, Canary - Christian Posta](http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/)
+
 ### Kubernetes
 
 #### Storage
