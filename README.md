@@ -52,6 +52,15 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 * Used by Lucene under the name "Leap-frog algorithm" : [Lucene FilteredQuery](https://lucene.apache.org/core/4_2_0/core/org/apache/lucene/search/FilteredQuery.html#LEAP_FROG_FILTER_FIRST_STRATEGY)
 * [bbuzz 2015 - Talk from Adrien Grand](https://youtu.be/eQ-rXP-D80U?t=357)
 
+### Sort
+
+#### Theory
+* [Selection sort VS Insertion sort - Computerphile ](https://www.youtube.com/watch?v=pcJHkWwjNl4)
+
+### Implementations
+* [Merge sort - PHP source code](https://github.com/php/php-src/blob/master/main/mergesort.c)
+* [Insert sort & Quick sort - PHP source code](https://github.com/php/php-src/blob/master/Zend/zend_sort.c)
+
 ## Architecture
 
 ### CAP theorem
