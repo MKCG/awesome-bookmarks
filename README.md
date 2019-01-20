@@ -114,11 +114,19 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ### Front-end
 
+[Lunr](https://github.com/olivernn/lunr.js)
+* ECMAScript 5 implementation
+* Fulltext search engine
+* In-memory storage
+* Can be used by mobile apps
+
+---
+
 [Metis](https://github.com/MKCG/metis)
 
 * ECMAScript 6 implementation
 * Fulltext search engine
-* Facet engine
+* Facet engine (filters)
 * In-memory storage
 * Can be used by mobile apps
 
