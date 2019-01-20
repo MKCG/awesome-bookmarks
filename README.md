@@ -17,7 +17,13 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 
 ## Cheatsheets
 
+[List of cheatsheets](https://lzone.de/cheat-sheet/)
+
+---
+
 [Docker](https://devhints.io/docker)
+
+[ECMAScript 6](https://devhints.io/es6)
 
 [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com/)
 
