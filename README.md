@@ -134,6 +134,10 @@ bookmarks about different subjects : infrastructure, machine-learning, etc.
 * In-memory storage
 * Can be used by mobile apps
 
+## Natural Language Processing
+
+[LASER - Facebook](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
+
 ## Testing
 
 ### CI Pipeline
